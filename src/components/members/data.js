@@ -1,0 +1,5 @@
+export const Head = ["Dr.B.Karthikeyan"]
+export const Officebearers = ["Raja","Lohith","Mohanarangan","Rubeena","Vijayabala","Aravindh"]
+export const Workingcomitee = ["Praveen","Monica","Akshaya","Suhasini","Lakshmi Priya","Priyadharshini","Devasree","Pravina","Guru Priya","Chelcia freeda","Nandhu Krishna","Sivathmika","Sudharshan","Srinath"]
+export const members =["Dr.B.Karthikeyan","Raja","Lohith","Mohanarangan","Rubeena","Vijayabala","Aravindh","Praveen","Monica","Akshaya","Suhasini","Lakshmi Priya","Priyadharshini","Devasree","Pravina","Guru Priya","Chelcia freeda","Nandhu Krishna","Sivathmika","Sudharshan","Srinath","Irshath"]
+export const particulars = ["Invitation Print","Gift","Gift Packing","Bell Pins","Champor","Hall Maintenance","Flex,Batches","Attendence Note","File","Water Bottle,Juice","Food(RP)","Snacks(RP)","Gift(Prayer Cell)","Flex","Batches","Printout","Xerox","Tea","Snacks","Attendence Print","Cellotape","MC Script Print","Travel Allowance","Marker","Oil,Flowers","Cotton Thiri","Gift,Tray"]
